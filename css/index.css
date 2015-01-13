@@ -1,4 +1,13 @@
 body {
-	padding-top: 70px;
+	padding-top: 51px;
 	background-image: url("../img/arches.png");
+}
+
+.jumbotron {
+	background-color: #99CCFF;
+}
+
+.row {
+	padding-left: 50px;
+	padding-right: 50px;
 }
