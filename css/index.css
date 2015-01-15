@@ -3,6 +3,13 @@ body {
 	background-image: url("../img/arches.png");
 }
 
+.centered {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #FCFCFC; 
+}
+
 .jumbotron {
 	background-color: #99CCFF;
 }
